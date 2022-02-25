@@ -5,7 +5,7 @@
   <h1 align="center"><b>Hey there, I'm Spicebag 👋</b></h1>
 </p>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/94927382/155770036-1bd1fc79-00ba-48af-8e0a-1b2845e59fd7.gif" />
 
 ### I am a Developer
 - 🔭 I’m currently working on a program to optimize FiveM to work with lower end systems.
