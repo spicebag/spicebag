@@ -8,9 +8,9 @@
 <img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/94927382/155770036-1bd1fc79-00ba-48af-8e0a-1b2845e59fd7.gif" />
 
 ### I am a Developer
-- 🔭 I’m currently working on a program to optimize FiveM to work with lower end systems.
+- 🔭 I’m currently working on creating QOL mods for ChilloutVR
 - 🌱 I’m currently working towards getting into univercity to work on Cyber Security and Cyber Forensics.
-- 🥅 2022 Goals: Learn how to develop for a FiveM Server.
+- 🥅 2022 Goals: Get into univercity.
 - 💬 Ask me about anything, I'll do my best to help. :smile:
 - 📬 How to reach me: karni#0001
 - 🧗 I try to: Make atleast one person happy a day.
