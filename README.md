@@ -12,7 +12,7 @@
 - 🌱 I’m currently working towards getting into univercity to work on Cyber Security and Cyber Forensics.
 - 🥅 2022 Goals: Learn how to develop for a FiveM Server.
 - 💬 Ask me about anything, I'll do my best to help. :smile:
-- 📬 How to reach me: Enoki#8977
+- 📬 How to reach me: karni#0001
 - 🧗 I try to: Make atleast one person happy a day.
 - ⚡ Fun fact: I love connecting with different people. :raised_hands:
 
@@ -52,7 +52,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Unity Modeling
+Creating a QOL mod for ChilloutVR.
 ```
 <!--END_SECTION:waka-->
 
