@@ -8,12 +8,8 @@
 <img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/94927382/155770036-1bd1fc79-00ba-48af-8e0a-1b2845e59fd7.gif" />
 
 ### I am a Developer
-- 🔭 I’m currently working on creating QOL mods for ChilloutVR
-- 🌱 I’m currently working towards getting into univercity to work on Cyber Security and Cyber Forensics.
-- 🥅 2022 Goals: Get into univercity.
+- 🔭 I’m currently working on my own FiveM Server, I also develop the QBCore Framework
 - 💬 Ask me about anything, I'll do my best to help. :smile:
-- 📬 How to reach me: karni#0001
-- 🧗 I try to: Make atleast one person happy a day.
 - ⚡ Fun fact: I love connecting with different people. :raised_hands:
 
 <br>
@@ -52,7 +48,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Creating a QOL mod for ChilloutVR.
+Working on QBCore.
 ```
 <!--END_SECTION:waka-->
 
