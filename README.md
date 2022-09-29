@@ -1,16 +1,12 @@
-![6b7M](https://user-images.githubusercontent.com/94927382/155769625-8b03ea88-df9f-4b71-b721-eee2c75cda39.gif)
 
-  
 <p>
   <h1 align="center"><b>Hey there, I'm Spicebag 👋</b></h1>
 </p>
 
-<img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/94927382/155770036-1bd1fc79-00ba-48af-8e0a-1b2845e59fd7.gif" />
-
 ### I am a Developer
-- 🔭 I’m currently working on my own FiveM Server, I also develop the QBCore Framework
-- 💬 Ask me about anything, I'll do my best to help. :smile:
-- ⚡ Fun fact: I love connecting with different people. :raised_hands:
+- 🔭 I currently do freelance work.
+- 💬 I love teaching people new things. :smile:
+- ⚡ Fun fact: I'm in college for Computer Networking. :raised_hands:
 
 <br>
 
