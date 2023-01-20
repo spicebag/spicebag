@@ -44,7 +44,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Working on QBCore.
+College Projects
 ```
 <!--END_SECTION:waka-->
 
