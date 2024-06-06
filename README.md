@@ -6,7 +6,8 @@
 ### I am a Developer
 - 🔭 I currently do freelance work.
 - 💬 I love teaching people new things. :smile:
-- ⚡ Fun fact: I'm in college for Computer Science. :raised_hands:
+- ⚡ Fun fact: I'm certified in Cyber Security & Cyber Forensics. :raised_hands:
+- 🖥️ Current Hobby: Learning about Offsec.
 
 <br>
 
